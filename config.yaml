@@ -21,8 +21,8 @@ params:
   description: Adam Smith's personal website
   hideColorSchemeToggle: no
   info:
-    - Machine Learning Enthusiast
-    - Artificial Intelligence Enthusiast 
+    - Business Analytics Major
+    - Machine Learning Enthusiast 
   keywords: ML, AI, Data Science
   maxSeeAlsoItems: 5
   rtl: no
